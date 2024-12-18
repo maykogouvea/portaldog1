@@ -1,0 +1,27 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://protocoloproibido.netlify.app" resolutions="1x" timestamp="1734369193484">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="390211536" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="capa peitoral forte preto e branco 2-1.jpg" crc="3931383060" ref="index"/>
+    <file name="tituto.png" crc="505551198" seo="true" ref="index"/>
+    <file name="tenha acesso.png" crc="3974422856" seo="true" ref="index"/>
+    <file name="direto ao ponto.png" crc="3907013291" seo="true" ref="index"/>
+    <file name="bg black.jpg" crc="3817826530" ref="index"/>
+    <file name="u159-43.png" crc="4181231968" ref="index"/>
+    <file name="design sem nome-u200-fr.png" crc="442552741" ref="index"/>
+    <file name="u215-38.png" crc="161768409" ref="index"/>
+    <file name="u218-4.png" crc="1791120" ref="index"/>
+    <file name="u229-4.png" crc="4209153408" ref="index"/>
+    <file name="u238-4.png" crc="3820245645" ref="index"/>
+  </folder>
+  <file name="index.html" crc="242285673" seo="true" mt="1734367743337" redirect="true"/>
+</manifest>
